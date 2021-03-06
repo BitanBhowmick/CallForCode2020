@@ -35,9 +35,10 @@ Chatbots are perfect for when users are appearing on any kind of website for loc
 
 ## Technology Stack
 1.  IBM Cloud 
-2.	Node JS
-3.  Python
-4.  Database(NoSQL)
+2.  AWS
+3.	Node JS
+4.  Python
+5.  Database(NoSQL)
 
 ## Architecture
 
